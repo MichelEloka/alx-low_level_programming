@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 /**
  *main - print the letters of the alphabet
  *Description: print the letters of the alphabet
@@ -18,7 +16,8 @@ int main(void)
 		putchar(i);
 		i++;
 
-	{		
+	{
+
 	putchar(10);
 	return (0);
 }
